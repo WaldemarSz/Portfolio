@@ -59,9 +59,6 @@
 ## KURSY
 
 - CODE:ME - Podstawy testowania w praktyce
-- UDEMY - Postman od podstaw
-- UDEMY - Praktyczny kurs testowania oprogramowania
-- HELION - Tester manualny
 
 ## KSIĄŻKI TECHNICZNE
 
