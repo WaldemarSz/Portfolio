@@ -149,6 +149,7 @@
 - technologie
   - automatyzacji testów
   - wytwarzanie oprogramowania
+  - front-end
 - inne
   - rozwój osobisty
   - jazda na rowerze
