@@ -135,7 +135,7 @@
 - framework Playwright
 - JavaScript
 - TypeScript
-- SQL
+- SQL / PostgreSQL
 
 ## Czego jeszcze chcę się nauczyć
 
