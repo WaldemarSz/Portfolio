@@ -129,14 +129,14 @@
 
 ## Czego się obecnie uczę
 
-- framework Playwright
+- Postman
 - JavaScript
 - TypeScript
 - SQL / PostgreSQL
 
 ## Czego jeszcze chcę się nauczyć
 
-- Rozwijać jako tester - automatyzacja
+- Rozwijać jako tester - framework Playwright
 - Python
 - Java
 
