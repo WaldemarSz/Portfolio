@@ -117,7 +117,7 @@
 
   - _[Przypadki testowe test funkcjonalności programu zawartego w panelu "Drzewo nawigacji"](https://docs.google.com/spreadsheets/d/1fCw3moGbeBQlcjZoq1R6izYscCVf5U02/edit?usp=sharing&ouid=117864180996750139015&rtpof=true&sd=true)_
 
-- _[Przypadki testowe Drzewo Klasyfikacji Zakup Biletu Intercity](https://drive.google.com/file/d/1IpC7xlDSHBE9Cbrd1XTOdTvL2PBfjhO3/view?usp=sharing)_
+- _[Przypadki testowe Drzewo Klasyfikacji Zakup biletu na stronie www.europodroze.pl](https://drive.google.com/file/d/1IpC7xlDSHBE9Cbrd1XTOdTvL2PBfjhO3/view?usp=sharing)_
 
 ---
 
