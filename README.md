@@ -121,6 +121,14 @@
 
 ---
 
+---
+
+## WYKONANE ZADANIA
+- Postman
+      [Testowanie API Trello za pomocą testów automatycznych](https://docs.google.com/document/d/1NXqsADDKijEQBZfiSa3rQdUYnt5bukde9Qhk635gxhM/edit?usp=sharing)
+
+---
+
 ## ZNALEZIONE BŁĘDY
 
 - _[Niespójności na stronie kursu "Python dla testera"](https://docs.google.com/document/d/1uES0cM0GyirPBG9jcqsTAHTSzli9-OhZ9LKP3vaoxhY/edit?usp=sharing)_
